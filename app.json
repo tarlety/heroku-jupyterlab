@@ -6,7 +6,7 @@
     "datascience"
   ],
   "website": "https://github.com/jupyterlab/jupyterlab",
-  "repository": "https://github.com/heroku/heroku-jupyterlab",
+  "repository": "https://github.com/tarlety/heroku-jupyterlab",
   "logo": "http://jupyter.org/assets/main-logo.svg",
   "success_url": "/",
   "env": {
